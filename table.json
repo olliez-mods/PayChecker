@@ -184,5 +184,17 @@
     "date": 25,
     "weekDay": "Sunday",
     "hours": 1
+  },
+  {
+    "month": "April",
+    "date": 26,
+    "weekDay": "Monday",
+    "hours": 1
+  },
+  {
+    "month": "April",
+    "date": 27,
+    "weekDay": "Tuesday",
+    "hours": 2
   }
 ]
