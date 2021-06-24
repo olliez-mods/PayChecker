@@ -196,5 +196,71 @@
     "date": 27,
     "weekDay": "Tuesday",
     "hours": 2
+  },
+  {
+    "month": "April",
+    "date": 29,
+    "weekDay": "Thursday",
+    "hours": 2
+  },
+  {
+    "month": "April",
+    "date": 30,
+    "weekDay": "Friday",
+    "hours": 0
+  },
+  {
+    "month": "may",
+    "date": 2,
+    "weekDay": "Sunday",
+    "hours": 1
+  },
+  {
+    "month": "may",
+    "date": 10,
+    "weekDay": "Monday",
+    "hours": 1
+  },
+  {
+    "month": "may",
+    "date": 13,
+    "weekDay": "Thursday",
+    "hours": 2
+  },
+  {
+    "month": "may",
+    "date": 18,
+    "weekDay": "Tuesday",
+    "hours": 2
+  },
+  {
+    "month": "may",
+    "date": 28,
+    "weekDay": "Friday",
+    "hours": 2
+  },
+  {
+    "month": "June",
+    "date": 21,
+    "weekDay": "Monday",
+    "hours": 2
+  },
+  {
+    "month": "June",
+    "date": 22,
+    "weekDay": "Tuesday",
+    "hours": 2
+  },
+  {
+    "month": "June",
+    "date": 23,
+    "weekDay": "Wednesday",
+    "hours": 2
+  },
+  {
+    "month": "June",
+    "date": 24,
+    "weekDay": "Thursday",
+    "hours": 2
   }
 ]
